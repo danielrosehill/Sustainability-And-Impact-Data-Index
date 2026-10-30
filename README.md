@@ -4,7 +4,7 @@
 
 Index of repositories related to sustainability, GHG emissions, ESG reporting, and environmental impact data analysis.
 
-*Last updated: 2026-03-25*
+**Last Updated:** October 2026
 
 ---
 
@@ -78,10 +78,3 @@ Source data and documentation for corporate sustainability disclosures/reporting
 [![GitHub](https://img.shields.io/badge/GitHub-Sustainability--Reports--Source-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Sustainability-Reports-Source)
 
 ---
-
-## Environmental Monitoring
-
-### Google-Air-Quality-MCP
-WIP - MCP server for querying Google Map's environmental API to retrieve air quality data for a geolocation
-
-[![GitHub](https://img.shields.io/badge/GitHub-Google--Air--Quality--MCP-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Google-Air-Quality-MCP)
